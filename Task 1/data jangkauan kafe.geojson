@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "data jangkauan kafe",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Kebun Buku - artbookscoffee", "snippet": "Jl. Minggiran No.61A, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141", "distance": 300.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 429091.678571823285893, 9135242.956936962902546, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Blanco Coffee And Books", "snippet": "Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233", "distance": 300.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 429964.395306574762799, 9139816.30366388335824, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Rumah Sukma - Books, Coffee, Community", "snippet": "Gg. Sidoasih, Tahunan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55167", "distance": 600.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 432247.402105546323583, 9136786.491827318444848, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Ministry of Coffee", "snippet": "Jl. Prawirotaman No.1/15a, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153", "distance": 600.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 430564.892245086375624, 9135699.508800620213151, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Kedai Donqui 2 [Coffee & Book]", "snippet": "Jl. Urip Sumoharjo No.40, Klitren, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55222", "distance": 300.0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 431752.669140834303107, 9139541.190556893125176, 0.0 ] ] } }
+]
+}
