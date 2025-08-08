@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder id="results">
+	<name>kafe buku</name>
+	<open>1</open>
+	<Placemark id="1.2.1">
+		<name>Kebun Buku - artbookscoffee</name>
+		<address>Jl. Minggiran No.61A, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141</address>
+		<phoneNumber>0899-2222-010</phoneNumber>
+		<snippet>Jl. Minggiran No.61A, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a57b8cfbc1eef:0x6c2220d44ce4a696&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a57b8cfbc1eef:0x6c2220d44ce4a696&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.3568319,-7.8227518,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.3.1">
+		<name>Kafe Mainmain</name>
+		<address>Jl. Sukun Raya No.422, Jaranan, Banguntapan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55198</address>
+		<snippet>Jl. Sukun Raya No.422, Jaranan, Banguntapan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55198</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a5942478cbccb:0x92ada86cc0cf244d&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_B</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a5942478cbccb:0x92ada86cc0cf244d&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.4055931,-7.792924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.4.1">
+		<name>Blanco Coffee And Books</name>
+		<address>Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233</address>
+		<snippet>Jl. Kranggan No.30, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55233</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a583a3b875c11:0xe57a6751df67f10d&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_C</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a583a3b875c11:0xe57a6751df67f10d&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.3648099,-7.7813975,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.5.1">
+		<name>Rumah Sukma - Books, Coffee, Community</name>
+		<address>Gg. Sidoasih, Tahunan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55167</address>
+		<phoneNumber>0812-2937-4525</phoneNumber>
+		<snippet>Gg. Sidoasih, Tahunan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55167</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a5753bcb9ecdb:0x6965a9bd62751ee2&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_D</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a5753bcb9ecdb:0x6965a9bd62751ee2&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.3854749,-7.808832999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.6.1">
+		<name>LUK Coffee &amp; Book - Maguwoharjo</name>
+		<address>Krodan, Maguwoharjo, Depok, Sleman Regency, Special Region of Yogyakarta 55281</address>
+		<snippet>Krodan, Maguwoharjo, Depok, Sleman Regency, Special Region of Yogyakarta 55281</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a594a4cc7e05b:0x39802ea526fda1e3&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_E</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a594a4cc7e05b:0x39802ea526fda1e3&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.4196705,-7.7575949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.7.1">
+		<name>Ministry of Coffee</name>
+		<address>Jl. Prawirotaman No.1/15a, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153</address>
+		<phoneNumber>0813-2702-7201</phoneNumber>
+		<snippet>Jl. Prawirotaman No.1/15a, Brontokusuman, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55153</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a57a2e6ead911:0x9eb2f4bfb8f25658&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_F</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a57a2e6ead911:0x9eb2f4bfb8f25658&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.3702002,-7.8186424,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1.8.1">
+		<name>Kedai Donqui 2 [Coffee &amp; Book]</name>
+		<address>Jl. Urip Sumoharjo No.40, Klitren, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55222</address>
+		<phoneNumber>0852-9250-6667</phoneNumber>
+		<snippet>Jl. Urip Sumoharjo No.40, Klitren, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55222</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&lng=110.38824985&fid=0x2e7a599ab470680b:0x7c6d1c9b13b4227a&hl=en&gl=id&client=earth-client&cv=7.3.6.10201&useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_G</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=-7.790188449999998&amp;lng=110.38824985&amp;fid=0x2e7a599ab470680b:0x7c6d1c9b13b4227a&amp;hl=en&amp;gl=id&amp;client=earth-client&amp;cv=7.3.6.10201&amp;useragent=GoogleEarth/7.3.6.10201(Windows;Microsoft Windows (6.2.9200.0);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>110.3810244,-7.783909899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+</Folder>
+</kml>
